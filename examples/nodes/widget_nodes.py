@@ -1,5 +1,3 @@
-from sympy import false
-
 from NodeGraphQt import BaseNode
 
 
